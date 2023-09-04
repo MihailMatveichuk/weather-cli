@@ -1,13 +1,13 @@
 # weather-cli
 
 ## Step 1:
-`npm install`
+`npm install weather-cli-demo-light`
 
 ## Step 2:
 Register on [OpenWeather](https://openweathermap.org/)
 
 ## Step 3:
-`node weather.js -h`
+`node weather`
 
 ### Description:
 
