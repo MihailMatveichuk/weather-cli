@@ -7,7 +7,7 @@
 Register on [OpenWeather](https://openweathermap.org/)
 
 ## Step 3:
-`node weather`
+`weather`
 
 ### Description:
 
